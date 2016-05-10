@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"enemyMoveLeft","_objFlags":0,"_duration":0.016666666666666666,"sample":60,"speed":1,"wrapMode":1,"curveData":{"comps":{"cc.Sprite":{"spriteFrame":[{"frame":0,"value":{"__uuid__":"4dc16a6b-4fcf-4f82-ab31-62d9094a83c5"}}]}}},"events":[]}
