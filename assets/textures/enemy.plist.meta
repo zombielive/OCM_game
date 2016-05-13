@@ -1,0 +1,53 @@
+{
+  "ver": "1.2.0",
+  "uuid": "fe8f68f6-bac8-40b1-955a-6c7b9ff3ce57",
+  "rawTextureUuid": "a9ebb7d0-8bdc-4696-89e4-1f7cb75fbdeb",
+  "size": {
+    "width": 102,
+    "height": 324
+  },
+  "type": "Texture Packer",
+  "rawTextureUrl": "db://assets/textures/enemy.png",
+  "subMetas": {
+    "enemy1.png": {
+      "ver": "1.0.2",
+      "uuid": "4dc16a6b-4fcf-4f82-ab31-62d9094a83c5",
+      "rawTextureUuid": "a9ebb7d0-8bdc-4696-89e4-1f7cb75fbdeb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 100,
+      "height": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "enemy2.png": {
+      "ver": "1.0.2",
+      "uuid": "3f7bcd4b-9ef8-436d-8d24-e88d2b8983fd",
+      "rawTextureUuid": "a9ebb7d0-8bdc-4696-89e4-1f7cb75fbdeb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 163,
+      "width": 100,
+      "height": 160,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

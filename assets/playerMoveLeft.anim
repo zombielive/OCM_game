@@ -1,0 +1,24 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "playerMoveLeft",
+  "_objFlags": 0,
+  "_duration": 0.016666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "31d08739-df8b-4c00-a01a-4596a94b11a3"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

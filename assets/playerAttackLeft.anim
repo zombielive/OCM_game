@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "playerAttackLeft",
+  "_objFlags": 0,
+  "_duration": 0.35,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {},
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "85028320-c3ca-45d3-aff4-70002bf9b33e"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "7ce46f01-ffc5-4934-ba99-aebfdd0e096e"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "31d08739-df8b-4c00-a01a-4596a94b11a3"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.15,
+      "func": "onHandsUp",
+      "params": []
+    },
+    {
+      "frame": 0.35,
+      "func": "onAttackAnimCompleted",
+      "params": []
+    }
+  ]
+}
